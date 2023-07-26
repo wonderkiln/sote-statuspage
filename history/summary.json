@@ -40,17 +40,17 @@
     "url": "https://dashboard.sote.life",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.sote.life.ico",
     "slug": "sote-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 514,
-    "timeWeek": 1173,
-    "timeMonth": 1326,
-    "timeYear": 1238,
+    "time": 1241,
+    "timeDay": 1112,
+    "timeWeek": 1240,
+    "timeMonth": 1338,
+    "timeYear": 1241,
     "dailyMinutesDown": {}
   }
 ]
