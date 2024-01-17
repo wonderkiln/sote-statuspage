@@ -1,7 +1,7 @@
 url: https://sote.life
-status: up
-code: 200
-responseTime: 346
-lastUpdated: 2024-01-17T21:50:21.272Z
+status: down
+code: 500
+responseTime: 1281
+lastUpdated: 2024-01-17T21:56:02.105Z
 startTime: 2023-02-14T02:55:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
